@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nosratian 👋</h1>
 
-- Areas of Expertize: .NET projects, Java projects (Springboot) projects, Clean Architecture, Micro Services etc.
+- Areas of Expertize: .NET projects, Java(Springboot) projects, gRPC, Blockchain, Clean Architecture, Micro Services etc.
 - Areas of Interest: Project Management, Scrum Master, Agile, Scrum, Kanban
 
 <p align="center">
